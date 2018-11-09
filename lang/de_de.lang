@@ -1,0 +1,55 @@
+be_explorer_title = Backend Explorer
+
+#subpage explorer
+be_explorer_explorer = Explorer
+be_explorer_explorer_select_all = Alles auswählen
+be_explorer_explorer_unselect_all = Auswahl aufheben
+be_explorer_explorer_select_invert = Auswahl umkehren
+be_explorer_explorer_delete = Löschen
+be_explorer_explorer_zip = Zip
+be_explorer_explorer_copy = Kopieren
+be_explorer_explorer_tree_title = Struktur
+
+be_explorer_explorer_name = Name
+be_explorer_explorer_size = Größe
+be_explorer_explorer_modified = Modifiziert
+be_explorer_explorer_perms = Rechte
+be_explorer_explorer_owner = Besitzer
+be_explorer_explorer_actions = Aktionen
+
+be_explorer_explorer_delete = Löschen
+be_explorer_explorer_rename = Umbenennen
+be_explorer_explorer_copy = Kopieren nach...
+be_explorer_explorer_direct_link = Direkter Link
+be_explorer_explorer_download = Download
+be_explorer_explorer_open = Öffnen
+be_explorer_explorer_edit = Editor
+be_explorer_explorer_advanced_edit = Erweiterter Editor
+be_explorer_explorer_back = Zurück
+
+be_explorer_explorer_save = Speichern
+be_explorer_explorer_backup = Sichern
+be_explorer_explorer_cancel = Abbrechen
+
+be_explorer_explorer_upload_files = Dateien hochladen
+be_explorer_explorer_destination_folder = Zielverzeichnis
+
+be_explorer_explorer_new_item = Neue Datei
+be_explorer_explorer_item_type = Typ
+be_explorer_explorer_item_type_file = Datei
+be_explorer_explorer_item_type_folder = Ordner
+be_explorer_explorer_item_create = Anlegen
+
+be_explorer_explorer_full_path = Pfad
+be_explorer_explorer_full_size = Dateigröße
+be_explorer_explorer_charset = Charset
+
+
+#subpage config
+be_explorer_config = Konfiguration
+be_explorer_config_show_tree_view = Ordner-Struktur anzeigen
+be_explorer_config_show_hidden_files = Versteckte Dateien anzeigen
+
+#permissions
+perm_general_be_explorer[] = Rechte für be_explorer-Addon
+perm_general_be_explorer[sets] = Rechte für die Seite 'Sets' des be_explorer-Addons

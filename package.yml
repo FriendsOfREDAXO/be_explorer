@@ -1,0 +1,18 @@
+package: be_explorer
+version: '1.0.0'
+author: 'Manétage'
+supportpage: github.com/FriendsOfREDAXO/be_explorer
+
+
+page:
+    title: 'translate:be_explorer_title'
+    perm: admin[]
+    description: 'translate:be_explorer_description'
+    icon: rex-icon fa-wpexplorer
+    subpages:
+            explorer: { title: 'translate:be_explorer_explorer' }
+            config: { title: 'translate:be_explorer_config' }
+
+    requires:
+        php:
+            version: '>=5.6.4'
