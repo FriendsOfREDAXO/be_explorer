@@ -1,0 +1,55 @@
+be_explorer_title = Backend Explorer
+
+#subpage explorer
+be_explorer_explorer = Explorer
+be_explorer_explorer_select_all = Välj ut allt
+be_explorer_explorer_unselect_all = Kasta urvalet
+be_explorer_explorer_select_invert = Invertera urvalet
+be_explorer_explorer_delete = Radera
+be_explorer_explorer_zip = Zip
+be_explorer_explorer_copy = Kopiera till ...
+be_explorer_explorer_tree_title = Struktur
+
+be_explorer_explorer_name = Namn
+be_explorer_explorer_size = Storlek
+be_explorer_explorer_modified = Modificierad
+be_explorer_explorer_perms = Rättigheter
+be_explorer_explorer_owner = Ägare
+be_explorer_explorer_actions = Aktioner
+
+be_explorer_explorer_delete = Radera
+be_explorer_explorer_rename = Byta namn
+be_explorer_explorer_copy = Kopiera till ...
+be_explorer_explorer_direct_link = Direkt länk
+be_explorer_explorer_download = Download
+be_explorer_explorer_open = Öppna
+be_explorer_explorer_edit = Editor
+be_explorer_explorer_advanced_edit = Utvidgad editor
+be_explorer_explorer_back = Tillbaka
+
+be_explorer_explorer_save = Spara
+be_explorer_explorer_backup = Spara
+be_explorer_explorer_cancel = Avbryt
+
+be_explorer_explorer_upload_files = Ladda upp filer
+be_explorer_explorer_destination_folder = Målmapp
+
+be_explorer_explorer_new_item = Ny fil
+be_explorer_explorer_item_type = Typ
+be_explorer_explorer_item_type_file = Fil
+be_explorer_explorer_item_type_folder = Mapp
+be_explorer_explorer_item_create = Skapa
+
+be_explorer_explorer_full_path = Led
+be_explorer_explorer_full_size = Filstorlek
+be_explorer_explorer_charset = Charset
+
+
+#subpage config
+be_explorer_config = Konfiguration
+be_explorer_config_show_tree_view = Visa mappstrukturen
+be_explorer_config_show_hidden_files = Visa gömda filer
+
+#permissions
+perm_general_be_explorer[] = Rättigheter till be_explorer-addon
+perm_general_be_explorer[sets] = be_explorer-addons rättigheter till sida "sets"
