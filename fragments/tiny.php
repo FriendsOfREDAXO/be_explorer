@@ -100,7 +100,7 @@ if (defined('FM_EMBED')) {
     }
 
     // session_cache_limiter('');
-    session_id('filemanager');
+    // session_id('filemanager');
     // session_start();
 }
 
