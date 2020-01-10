@@ -1179,7 +1179,7 @@ foreach ($folders as $f) {
 <a title="<?php echo $this->i18n('be_explorer_explorer_direct_link')?>" href="<?php echo fm_enc(FM_ROOT_URL . (FM_PATH != '' ? '/' . FM_PATH : '') . '/' . $f . '/') ?>" target="_blank"><i class="fa fa-link" aria-hidden="true"></i></a>
 </td></tr>
     <?php
-    flush();
+    //flush();
 }
 
 foreach ($files as $f) {
@@ -1218,7 +1218,7 @@ foreach ($files as $f) {
 <a title="<?php echo $this->i18n('be_explorer_explorer_download')?>" href="?page=be_explorer/explorer&p=<?php echo urlencode(FM_PATH) ?>&amp;dl=<?php echo urlencode($f) ?>"><i class="fa fa-download"></i></a>
 </td></tr>
     <?php
-    flush();
+    //flush();
 }
 
 if (empty($folders) && empty($files)) {
