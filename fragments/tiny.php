@@ -49,7 +49,7 @@ $toMailId = ""; //yourmailid@mail.com
 $default_timezone = 'Etc/UTC'; // UTC
 
 // Root path for file manager
-$root_path = $_SERVER['DOCUMENT_ROOT'];
+$root_path = rex_path::base();
 // dump($root_path);
 
 // Root url for links in file manager.Relative to $http_host. Variants: '', 'path/to/subfolder'
