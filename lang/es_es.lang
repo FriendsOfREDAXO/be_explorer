@@ -1,0 +1,55 @@
+be_explorer_title = Backend Explorer
+
+#subpage explorer
+be_explorer_explorer = Explorador
+be_explorer_explorer_select_all = Seleccionar todo
+be_explorer_explorer_unselect_all = Deseleccionar todo
+be_explorer_explorer_select_invert = Invertir selección
+be_explorer_explorer_delete = Eliminar
+be_explorer_explorer_zip = Zip
+be_explorer_explorer_copy = Copiar a
+be_explorer_explorer_tree_title = Estructura
+
+be_explorer_explorer_name = Nombre
+be_explorer_explorer_size = Tamaño
+be_explorer_explorer_modified = Modificado
+be_explorer_explorer_perms = Derechos
+be_explorer_explorer_owner = Propietario
+be_explorer_explorer_actions = Acciones
+
+be_explorer_explorer_delete = Eliminar
+be_explorer_explorer_rename = Cambiar nombre
+be_explorer_explorer_copy = Copiar a
+be_explorer_explorer_direct_link = Enlace directo
+be_explorer_explorer_download = Descargar
+be_explorer_explorer_open = Abrir
+be_explorer_explorer_edit = Editor
+be_explorer_explorer_advanced_edit = Editor avanzado
+be_explorer_explorer_back = Volver
+
+be_explorer_explorer_save = Guardar
+be_explorer_explorer_backup = Guardar
+be_explorer_explorer_cancel = Cancelar
+
+be_explorer_explorer_upload_files = Subir archivos
+be_explorer_explorer_destination_folder = Carpeta de destino
+
+be_explorer_explorer_new_item = Nuevo archivo
+be_explorer_explorer_item_type = Tipo
+be_explorer_explorer_item_type_file = Archivo
+be_explorer_explorer_item_type_folder = Carpeta
+be_explorer_explorer_item_create = Crear
+
+be_explorer_explorer_full_path = Ruta
+be_explorer_explorer_full_size = Tamaño del archivo
+be_explorer_explorer_charset = Caracteres
+
+
+#subpage config
+be_explorer_config = Configuración
+be_explorer_config_show_tree_view = Mostrar estructura de carpetas
+be_explorer_config_show_hidden_files = Mostrar archivos ocultos
+
+# permisos
+perm_general_be_explorer[] = Derechos para el complemento be_explorer
+perm_general_be_explorer[sets] = Derechos para la página 'Conjuntos' be_explorer addon
