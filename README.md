@@ -1,6 +1,9 @@
 REDAXO-AddOn: Backend Explorer
 ================================================================================
 
+⚠️ Entwicklung eingestellt und wird an dieser Stelle nicht länger gepflegt. / Deprecated: This AddOn won’t be maintained any longer.
+A suitable substitute addon could be the icecoder: https://github.com/FriendsOfREDAXO/icecoder
+
 Dateiexplorer für REDAXO.
 Dateien direkt auf dem Server über die Weboberfläche erstellen, bearbeiten, kopieren, etc. Farbliche Quellcode-Hervorhebung im Editiermodus.
 
